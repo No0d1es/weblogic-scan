@@ -6,4 +6,4 @@
 
 TIMEOUT = 5
 
-server = '' # http://xxx.ceye.io
+server = 'http://f3hd5c.ceye.io' # http://xxx.ceye.io
